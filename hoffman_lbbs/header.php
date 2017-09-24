@@ -78,7 +78,6 @@
 							));
 							
 						} ?>
-						<li class="page_item"><a target="_blank" href="http://astore.amazon.com/libobist-20">Bookshop</a></li>
 						<form method="get" class="search-form" id="search-form" action="http://littlebookbigstory.com/">
 	                        <input type="search" class="search-field" placeholder="Search form" name="s" id="s"> 
 	                        <a id="searchsubmit" class="search-button" onclick="document.getElementById('search-form').submit(); return false;"></a>
